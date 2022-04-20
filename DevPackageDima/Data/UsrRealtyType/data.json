@@ -1,0 +1,52 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2fe53882-c755-4e4d-a085-63500da36044"
+        },
+        {
+          "SchemaColumnUId": "860ad043-01f8-4cef-783e-8191871c2257",
+          "Value": "К"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1650463041738+0300)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "972fc7ec-b50b-478d-a50f-b544d452a8c4"
+        },
+        {
+          "SchemaColumnUId": "860ad043-01f8-4cef-783e-8191871c2257",
+          "Value": "З"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1650463061846+0300)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "faa2b962-e2c8-46aa-adc9-d0989b32f4c6"
+        },
+        {
+          "SchemaColumnUId": "860ad043-01f8-4cef-783e-8191871c2257",
+          "Value": "Д"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1650463051414+0300)\/"
+        }
+      ]
+    }
+  ]
+}

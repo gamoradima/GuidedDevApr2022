@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "6214f5f6-1f74-76a3-cdf0-4e28128c62bc",
+    "PackageVersion": "8.0.1",
+    "Name": "DevPackageDima",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1650376973000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevPackageDima.csproj",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}

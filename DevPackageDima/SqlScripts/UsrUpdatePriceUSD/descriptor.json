@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "c8f9cd33-3ec6-4ebc-7be0-84aaaf3f6513",
+    "Name": "UsrUpdatePriceUSD",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1650893966000)\/",
+    "DependsOn": []
+  }
+}
